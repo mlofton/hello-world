@@ -1,6 +1,5 @@
-# hello-world
+# welcome
 
-Hey world!
+Hey y'all!
 
-I am excited to learn all of the things here. 
-Time to make things happen!
+My name is Mia, and I am very much a beginner on GitHub. I look forward to learning all I can possibly absorb!
